@@ -28,7 +28,7 @@ sections:
           company_url: 'https://umd.edu/'
           company_logo: org-gc
           location: College Park, MD
-          date_start: 'June 2023'
+          date_start: '2023-06-01'
           date_end: ''
           description: I am working as a Reseach Assistant with Prof. Ramani Duraiswami in the CS department.
         - title: Teaching Assistant
@@ -36,8 +36,8 @@ sections:
           company_url: 'https://umd.edu/'
           company_logo: org-gc
           location: College Park, MD
-          date_start: 'August 2021'
-          date_end: 'June 2023'
+          date_start: '2021-08-01'
+          date_end: '2023-06-01'
           description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), AMSC661 (Scientific Computation), AMSC420 (Mathematical Modeling).
     design:
       columns: '2'
