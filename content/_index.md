@@ -26,7 +26,7 @@ sections:
         - title: Research Assistant
           company: University of Maryland College Park
           company_url: 'https://umd.edu/'
-          company_logo: org-gc
+          company_logo: org-x
           location: College Park, MD
           date_start: '2023-06-01'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Teaching Assistant
           company: University of Maryland College Park
           company_url: 'https://umd.edu/'
-          company_logo: org-gc
+          company_logo: org-x
           location: College Park, MD
           date_start: '2021-08-01'
           date_end: '2023-06-01'
