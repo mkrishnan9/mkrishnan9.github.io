@@ -23,27 +23,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Assistant
+          company: University of Maryland College Park
+          company_url: 'https://umd.edu/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: College Park, MD
+          date_start: 'June 2023'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I am working as a Reseach Assistant with Prof. Ramani Duraiswami in the CS department.
+        - title: Teaching Assistant
+          company: University of Maryland College Park
+          company_url: 'https://umd.edu/'
+          company_logo: org-gc
+          location: College Park, MD
+          date_start: 'August 2021'
+          date_end: 'June 2023'
+          description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), AMSC661 (Scientific Computation), AMSC420 (Mathematical Modeling).
     design:
       columns: '2'
   - block: accomplishments
