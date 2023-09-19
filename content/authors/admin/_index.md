@@ -34,10 +34,10 @@ education:
   courses:
     - course: PhD in Applied Math
       institution: University of Maryland College Park
-      year: (current)
+      year: (2021-)
     - course: Dual BS-MS degree in Math
       institution: Indian Institute of Science Education and Research (IISER) Thiruvananthapuram
-      year: 2021
+      year: 2016-2021
 
 
 # Social/Academic Networking
@@ -54,9 +54,9 @@ social:
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
- # - icon: linkedin
- #   icon_pack: fab
- #   link: https://www.linkedin.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/meenakshi-krishnan-5a8318212/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,5 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a second year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Dr. Ramani Duraiswami in the CS department at UMD. I am generally interested in numerical analysis, mathematical modeling and scientific computation for PDEs. I can be reached at mkrishn9[at]umd[dot]edu.
+Hi! I am a second year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Dr. Ramani Duraiswami in the CS department at UMD. I am generally interested in numerical analysis, mathematical modeling and scientific computation for PDEs. 
+
+I can be reached at mkrishn9[at]umd[dot]edu.
 {style="text-align: justify;"}
