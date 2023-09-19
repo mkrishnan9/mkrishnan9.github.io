@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Applied Math
       institution: University of Maryland College Park
-      year: (2021-)
+      year: 2021-
     - course: Dual BS-MS degree in Math
       institution: Indian Institute of Science Education and Research (IISER) Thiruvananthapuram
       year: 2016-2021
@@ -71,7 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a second year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Dr. Ramani Duraiswami in the CS department at UMD. I am generally interested in numerical analysis, mathematical modeling and scientific computation for PDEs. 
+Hi! I am a second year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Dr. Ramani Duraiswami in the CS department at the University of Maryland. I am generally interested in numerical analysis, mathematical modeling and scientific computation for PDEs. 
 
 I can be reached at mkrishn9[at]umd[dot]edu.
+
 {style="text-align: justify;"}
