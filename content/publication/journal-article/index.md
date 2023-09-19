@@ -17,10 +17,10 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Fluids"
+publication: "Computers and Fluids"
 publication_short: ""
 
-abstract: ""
+abstract: "The design and analysis of a unified asymptotic preserving (AP) and well-balanced scheme for the Euler Equations with gravitational and frictional source terms is presented in this paper. The asymptotic behaviour of the Euler system in the limit of zero Mach and Froude numbers, and large friction is characterised by an additional scaling parameter. Depending on the values of this parameter, the Euler system relaxes towards a hyperbolic or a parabolic limit equation. Standard Implicit–Explicit Runge–Kutta schemes are incapable of switching between these asymptotic regimes. We propose a time semi-discretisation to obtain a unified scheme which is AP for the two different limits. A further reformulation of the semi-implicit scheme can be recast as a fully-explicit method in which the mass update contains both hyperbolic and parabolic fluxes. A space–time fully-discrete scheme is derived using a finite volume framework. A hydrostatic reconstruction strategy, an upwinding of the sources at the interfaces, and a careful choice of the central discretisation of the parabolic fluxes are used to achieve the well-balancing property for hydrostatic steady states. Results of several numerical case studies are presented to substantiate the theoretical claims and to verify the robustness of the scheme."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -63,12 +63,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
