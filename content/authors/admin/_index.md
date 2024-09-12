@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a third year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Prof. Ramani Duraiswami in the CS department at the University of Maryland. My interests are in numerical analysis, optimization, machine learning, and scientific computation for partial differential equations. 
+Hi! I am a fourth year PhD student in the Applied Math and Scientific Computation (AMSC) program. I am currently working with Prof. Ramani Duraiswami in the CS department at the University of Maryland. My interests are in numerical analysis, optimization, machine learning, and scientific computation for partial differential equations. 
 
 I can be reached at mkrishn9[at]umd[dot]edu.
 
