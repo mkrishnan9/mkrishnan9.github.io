@@ -31,6 +31,14 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: I am working as a Reseach Assistant with Prof. Ramani Duraiswami in the CS department.
+        - title: PhD Research Intern
+          company: Dolby Laboratories
+          company_url: 'https://www.dolby.com/'
+          company_logo: org-d
+          location: San Francisco, CA
+          date_start: '2024-05-01'
+          date_end: '2024-08-01'
+          description: I worked as a Research Intern in the Audio Division of The Advanced Technology Group at Dolby Laboratories. 
         - title: Teaching Assistant
           company: University of Maryland College Park
           company_url: 'https://umd.edu/'
