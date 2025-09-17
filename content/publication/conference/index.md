@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2410.12000
+url_pdf: https://ieeexplore.ieee.org/abstract/document/11011170
 url_code: ''
 url_dataset: ''
 url_poster: ''
