@@ -29,6 +29,7 @@ sections:
       spacing:
         padding: ["40px", "0", "40px", "0"]
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -71,7 +72,7 @@ sections:
           location: College Park, MD
           date_start: '2021-08-01'
           date_end: '2023-06-01'
-          description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), AMSC661 (Scientific Computation), AMSC420 (Mathematical Modeling).
+          description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), MATH401 (Applications of Linear Algebra), MATH416 (Applied Harmonic Analysis), AMSC420 (Mathematical Modeling), and AMSC661 (Scientific Computing II). My TA reviews can be found [here](https://planetterp.com/professor/krishnan).
     design:
       columns: '2'
       spacing:
