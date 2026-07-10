@@ -55,8 +55,8 @@ sections:
           company_logo: org-x
           location: College Park, MD
           date_start: '2023-06-01'
-          date_end: ''
-          description: I am working as a Reseach Assistant with Prof. Ramani Duraiswami in the CS department.
+          date_end: '2026-05-01'
+          description: I worked as a Research Assistant with Prof. Ramani Duraiswami in the CS department.
         - title: PhD Research Intern
           company: Dolby Laboratories
           company_url: 'https://www.dolby.com/'
@@ -92,6 +92,7 @@ sections:
         - **Dean's Fellowship**, 2021–2023. Awarded by the [UMD Graduate School](https://gradschool.umd.edu/funding/student-fellowships-awards/university-deans-and-merit-program).
         - **ANU Future Research Talent Award**, 2020 (canceled due to the COVID-19 pandemic). Awarded by the [Australian National University](https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india).
         - **DAAD-WISE Fellowship**, 2019. Awarded by the German Academic Exchange Service (DAAD) for Working Internships in Science and Engineering.
+        - **Indian Academy of Sciences Summer Research Fellowship**, May 2018. Awarded by the [Indian Academy of Sciences](https://webjapps.ias.ac.in/SEP/SummerFellowships.jsp).
         - **INSPIRE Fellowship**, 2016–2021. Awarded by the [Department of Science and Technology, Govt. of India](https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research).
     design:
       columns: '1'
