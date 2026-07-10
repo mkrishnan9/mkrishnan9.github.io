@@ -77,6 +77,45 @@ sections:
       columns: '2'
       spacing:
         padding: ["40px", "0", "40px", "0"]
+  - block: markdown
+    id: fellowships
+    content:
+      title: Fellowships & Awards
+      text: |2-
+        - **Wylie Dissertation Fellowship**, 2026. Awarded by the [Graduate School at UMD](https://gradschool.umd.edu/funding/student-fellowships-awards/dissertation-fellowship).
+        - **Mark E. Lachtman Award**, 2026. Awarded by the [Department of Mathematics at UMD](https://www-math.umd.edu/124-math/graduate/graduate-awards/572-mark-e-lachtman-graduate-student-award.html).
+        - **Outstanding Research Assistant Award**, 2026. Awarded by the Graduate School at UMD.
+        - **NeuroPAC Fellowship**, 2025. Awarded by [NeuroPAC and NSF](https://www.neuropac.info/fellowships/) for accelerating research on Neuromorphic Perception.
+        - **Hauptmann Fellowship**, 2024. Awarded by the [Department of Mathematics at UMD](https://www-math.umd.edu/graduate-awards/894-hauptman-fellowship.html).
+        - **Seymour Goldberg Spotlight Talks on Graduate Research Award**, 2024. Awarded by the [Department of Mathematics at UMD](https://www-math.umd.edu/priority-reports/124-math/graduate/graduate-awards/606-spotlight-on-graduate-research-awards.html).
+        - **Janine Tucker and Ira Schwartz Endowed Graduate Award in Mathematics**, 2023. Awarded by the [Department of Mathematics at UMD](https://giving.umd.edu/giving/Fund.php?name=janine-tucker-and-ira-schwartz-endowed-graduate-award-in-mathematics).
+        - **Dean's Fellowship**, 2021–2023. Awarded by the [UMD Graduate School](https://gradschool.umd.edu/funding/student-fellowships-awards/university-deans-and-merit-program).
+        - **ANU Future Research Talent Award**, 2020 (canceled due to the COVID-19 pandemic). Awarded by the [Australian National University](https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india).
+        - **DAAD-WISE Fellowship**, 2019. Awarded by the [German Academic Exchange Service (DAAD)](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1) for Working Internships in Science and Engineering.
+        - **INSPIRE Fellowship**, 2016–2021. Awarded by the [Department of Science and Technology, Govt. of India](https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research).
+    design:
+      columns: '1'
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching Experience
+      text: |2-
+        Graduate Teaching Assistant, Department of Mathematics, University of Maryland College Park (Sept 2021 – June 2023):
+
+        - MATH120, Elementary Calculus
+        - MATH141, Calculus II
+        - MATH401, Applications of Linear Algebra
+        - MATH416, Applied Harmonic Analysis
+        - AMSC420, Mathematical Modeling
+        - AMSC661, Scientific Computing II
+
+        My TA reviews can be found [here](https://planetterp.com/professor/krishnan).
+    design:
+      columns: '1'
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
 #  - block: collection
    # id: talks
  #   content:
