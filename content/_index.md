@@ -14,6 +14,20 @@ sections:
     design:
       spacing:
         padding: ["40px", "0", "40px", "0"]
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      count: 20
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
   - block: experience
     content:
       title: Experience
@@ -60,20 +74,6 @@ sections:
           description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), AMSC661 (Scientific Computation), AMSC420 (Mathematical Modeling).
     design:
       columns: '2'
-      spacing:
-        padding: ["40px", "0", "40px", "0"]
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      count: 20
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
       spacing:
         padding: ["40px", "0", "40px", "0"]
 #  - block: collection
