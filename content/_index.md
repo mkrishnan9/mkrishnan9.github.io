@@ -11,6 +11,9 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
   - block: experience
     content:
       title: Experience
@@ -57,6 +60,8 @@ sections:
           description: I worked as a TA for MATH120 (Elementary Calculus), MATH141 (Calculus II), AMSC661 (Scientific Computation), AMSC420 (Mathematical Modeling).
     design:
       columns: '2'
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
   - block: collection
     id: featured
     content:
@@ -69,6 +74,8 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+        padding: ["40px", "0", "40px", "0"]
 #  - block: collection
    # id: talks
  #   content:
