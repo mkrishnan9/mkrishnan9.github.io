@@ -51,9 +51,9 @@ social:
   - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Nr9_WBcAAAAJ
- # - icon: github
- #   icon_pack: fab
- #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mkrishnan9
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/meenakshi-krishnan-5a8318212/
