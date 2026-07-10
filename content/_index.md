@@ -23,6 +23,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Research Intern (Returning)
+          company: Dolby Laboratories
+          company_url: 'https://www.dolby.com/'
+          company_logo: org-d
+          location: San Francisco, CA
+          date_start: '2026-05-01'
+          date_end: '2026-08-01'
+          description: ''
         - title: Research Assistant
           company: University of Maryland College Park
           company_url: 'https://umd.edu/'
@@ -50,6 +58,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       filters:
