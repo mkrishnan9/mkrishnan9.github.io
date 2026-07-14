@@ -16,7 +16,7 @@ publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Learning Representations (ICLR) 2026 Workshop on AI&PDE. Spotlight Presentation (Oral)."
+publication: "International Conference on Learning Representations (ICLR) 2026 Workshop on AI&PDE. Spotlight Presentation (Oral)"
 publication_short: ""
 
 abstract: ""
